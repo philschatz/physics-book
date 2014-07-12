@@ -1,4 +1,16 @@
 # Dependencies
 markdown:         kramdown
 
+# Setup
+author:
+  name:           "Openstax"
+  url:            http://cnx.org
+
+
+title:            "Openstax College Physics"
+
+# Custom vars
+version:          7.61
+origin:           http://cnx.org/contents/031da8d3-b525-429c-80cf-6c8ed997733a@7.61
+
 bookviewer:       http://philschatz.com/book-viewer
