@@ -1,16 +1,24 @@
+
 # Dependencies
 markdown:         kramdown
 
+# Permalinks
+#permalink:        pretty
+
 # Setup
+title:            'Physics'
+tagline:          'from http://cnx.org/contents/031da8d3-b525-429c-80cf-6c8ed997733a@9.30 (CC-BY)'
+url:              https://github.com/philschatz/physics-book
+origin:           http://cnx.org/contents/031da8d3-b525-429c-80cf-6c8ed997733a@9.30
+
 author:
-  name:           "Openstax"
-  url:            http://cnx.org
+  name:           'Openstax'
+  url:            https://github.com/openstax
 
-
-title:            "Openstax College Physics"
+paginate:         5
 
 # Custom vars
-version:          7.61
-origin:           http://cnx.org/contents/031da8d3-b525-429c-80cf-6c8ed997733a@7.61
+version:          9.30
 
 bookviewer:       http://philschatz.com/book-viewer
+
