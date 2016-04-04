@@ -1,0 +1,4049 @@
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml"
+                xmlns:cnx="http://cnx.rice.edu/cnxml"
+                xmlns:cnxorg="http://cnx.rice.edu/system-info"
+                xmlns:md="http://cnx.rice.edu/mdml"
+                xmlns:col="http://cnx.rice.edu/collxml"
+                xmlns:cnxml="http://cnx.rice.edu/cnxml"
+                xmlns:m="http://www.w3.org/1998/Math/MathML"
+                xmlns:q="http://cnx.rice.edu/qml/1.0"
+                xmlns:xhtml="http://www.w3.org/1999/xhtml"
+                xmlns:bib="http://bibtexml.sf.net/"
+                xmlns:cc="http://web.resource.org/cc/"
+                xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+                xml:lang="en" type="Textbook">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml"
+          mdml-version="0.5">
+  <!-- WARNING! The 'metadata' section is read only. Do not edit below.
+       Changes to the metadata section in the source will not be saved. -->
+
+  <md:repository>http://cnx.org/content</md:repository>
+  <md:content-url>http://cnx.org/content/col11406/1.9</md:content-url>
+  <md:content-id>col11406</md:content-id>
+  <md:title>College Physics</md:title>
+  
+  
+  <md:version>1.9</md:version>
+  <md:created>2012/01/23 13:03:30.293 US/Central</md:created>
+  <md:revised>2015/07/27 12:55:32.442 GMT-5</md:revised>
+
+  <md:actors>
+    
+    
+    <md:person userid="cnxcap">
+      <md:firstname>College</md:firstname>
+      <md:surname>Physics</md:surname>
+      <md:fullname>OSC Physics Maintainer</md:fullname>
+      <md:email>info@openstaxcollege.org</md:email>
+    </md:person>
+    
+    
+    <md:organization userid="OpenStaxCollege">
+      <md:shortname>OpenStax</md:shortname>
+      <md:fullname>OpenStax</md:fullname>
+      <md:email>info@openstax.org</md:email>
+    </md:organization>
+    
+    
+    
+    
+    <md:person userid="OSCRiceUniversity">
+      <md:firstname>Rice</md:firstname>
+      <md:surname>University</md:surname>
+      <md:fullname>Rice University</md:fullname>
+      <md:email>daniel@openstaxcollege.org</md:email>
+    </md:person>
+    
+  </md:actors>
+  <md:roles>
+    <md:role type="author">OpenStaxCollege</md:role>
+    <md:role type="maintainer">OpenStaxCollege cnxcap</md:role>
+    <md:role type="licensor">OSCRiceUniversity</md:role>
+    
+    
+  </md:roles>
+
+  <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
+  <!-- For information on license requirements for use or modification, see license url in the
+       above <md:license> element.
+       For information on formatting required attribution, see the URL:
+         CONTENT_URL/content_info#cnx_cite_header
+       where CONTENT_URL is the value provided above in the <md:content-url> element.
+  -->
+  
+  
+  
+  
+
+  
+
+  <md:keywordlist>
+    <md:keyword>ac circuits</md:keyword>
+    <md:keyword>atomic physics</md:keyword>
+    <md:keyword>bioelectricity</md:keyword>
+    <md:keyword>biological and medical applications</md:keyword>
+    <md:keyword>circuits</md:keyword>
+    <md:keyword>college physics</md:keyword>
+    <md:keyword>collisions</md:keyword>
+    <md:keyword>dc instruments</md:keyword>
+    <md:keyword>drag</md:keyword>
+    <md:keyword>elasticity</md:keyword>
+    <md:keyword>electric charge and electric field</md:keyword>
+    <md:keyword>electric current</md:keyword>
+    <md:keyword>electric potential</md:keyword>
+    <md:keyword>electrical technologies</md:keyword>
+    <md:keyword>electromagnetic induction</md:keyword>
+    <md:keyword>electromagnetic waves</md:keyword>
+    <md:keyword>energy</md:keyword>
+    <md:keyword>fluid dynamics</md:keyword>
+    <md:keyword>fluid statics</md:keyword>
+    <md:keyword>forces</md:keyword>
+    <md:keyword>friction</md:keyword>
+    <md:keyword>frontiers of physics</md:keyword>
+    <md:keyword>gas laws</md:keyword>
+    <md:keyword>geometric optics</md:keyword>
+    <md:keyword>heat and transfer methods</md:keyword>
+    <md:keyword>kinematics</md:keyword>
+    <md:keyword>kinetic theory</md:keyword>
+    <md:keyword>linear momentum</md:keyword>
+    <md:keyword>magnetism</md:keyword>
+    <md:keyword>medical applications of nuclear physics</md:keyword>
+    <md:keyword>Newton’s Laws of Motion</md:keyword>
+    <md:keyword>Ohm’s Law</md:keyword>
+    <md:keyword>oscillatory motion and waves</md:keyword>
+    <md:keyword>particle physics</md:keyword>
+    <md:keyword>physics</md:keyword>
+    <md:keyword>physics of hearing</md:keyword>
+    <md:keyword>quantum physics</md:keyword>
+    <md:keyword>radioactivity and nuclear physics</md:keyword>
+    <md:keyword>resistance</md:keyword>
+    <md:keyword>rotational motion and angular momentum</md:keyword>
+    <md:keyword>special relativity</md:keyword>
+    <md:keyword>statics and torque</md:keyword>
+    <md:keyword>temperature</md:keyword>
+    <md:keyword>thermodynamics</md:keyword>
+    <md:keyword>uniform circular motion and gravitation</md:keyword>
+    <md:keyword>vision and optical instruments</md:keyword>
+    <md:keyword>wave optics</md:keyword>
+    <md:keyword>work</md:keyword>
+  </md:keywordlist>
+
+  <md:subjectlist>
+    <md:subject>Mathematics and Statistics</md:subject>
+    <md:subject>Science and Technology</md:subject>
+  </md:subjectlist>
+
+  <md:abstract>This introductory, algebra-based, two-semester college physics book is grounded with real-world examples, illustrations, and explanations to help students grasp key, fundamental physics concepts. This online, fully editable and customizable title includes learning objectives, concept questions, links to labs and simulations, and ample practice opportunities to solve traditional physics application problems.</md:abstract>
+
+  <md:language>en</md:language>
+
+  
+
+  
+  <md:homepage>http://openstaxcollege.org</md:homepage>
+  <md:institution>OpenStaxCollege</md:institution>
+  
+  
+
+  <!-- WARNING! The 'metadata' section is read only. Do not edit above.
+       Changes to the metadata section in the source will not be saved. -->
+</metadata>
+
+  <col:parameters>
+    <col:param name="real-imaginary-notation" value="font"/>
+    <col:param name="and-or-notation"
+               value="propositional-logic"/>
+    <col:param name="gradient-notation" value="text"/>
+    <col:param name="mean-notation" value="bar"/>
+    <col:param name="remainder-notation" value="text"/>
+    <col:param name="conjugate-notation" value="bar"/>
+    <col:param name="imaginary-i-notation" value="i"/>
+    <col:param name="scalar-product-notation"
+               value="angle-bracket"/>
+    <col:param name="print-font-size" value="10pt"/>
+    <col:param name="curl-notation" value="text"/>
+    <col:param name="for-all-equation-layout"
+               value="symbolic"/>
+    <col:param name="vector-notation" value="bold"/>
+    <col:param name="print-paper-size" value="8.5x11"/>
+    <col:param name="print-font" value="computer-modern"/>
+    <col:param name="print-style" value="ccap-physics"/>
+    <col:param name="print-paragraph-spacing"
+               value="compact"/>
+  </col:parameters>
+  
+  <col:content>
+    
+      <col:module document="m42955" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.9">
+        <md:title>Preface</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Introduction: The Nature of Science and Physics</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m42119" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Introduction to Science and the Realm of Physics, Physical Quantities, and Units</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42092" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.4">
+        <md:title>Physics: An Introduction</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42091" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.7">
+        <md:title>Physical Quantities and Units</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42120" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.7">
+        <md:title>Accuracy, Precision, and Significant Figures</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42121" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.5">
+        <md:title>Approximation</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Kinematics</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m42122" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.2">
+        <md:title>Introduction to One-Dimensional Kinematics</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42033" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.4">
+        <md:title>Displacement</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42124" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.2">
+        <md:title>Vectors, Scalars, and Coordinate Systems</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42096" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.4">
+        <md:title>Time, Velocity, and Speed</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42100" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.4">
+        <md:title>Acceleration</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42099" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.10">
+        <md:title>Motion Equations for Constant Acceleration in One Dimension</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42125" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.2">
+        <md:title>Problem-Solving Basics for One-Dimensional Kinematics</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42102" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.5">
+        <md:title>Falling Objects</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42103" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.5">
+        <md:title>Graphical Analysis of One-Dimensional Motion</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Two-Dimensional Kinematics</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m42126" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Introduction to Two-Dimensional Kinematics</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42104" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.4">
+        <md:title>Kinematics in Two Dimensions: An Introduction</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42127" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.7">
+        <md:title>Vector Addition and Subtraction: Graphical Methods</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42128" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.10">
+        <md:title>Vector Addition and Subtraction: Analytical Methods</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42042" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.12">
+        <md:title>Projectile Motion</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42045" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.12">
+        <md:title>Addition of Velocities</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Dynamics: Force and Newton's Laws of Motion</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m42129" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.4">
+        <md:title>Introduction to Dynamics: Newton’s Laws of Motion</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42069" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Development of Force Concept</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42130" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.2">
+        <md:title>Newton’s First Law of Motion: Inertia</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42073" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.8">
+        <md:title>Newton’s Second Law of Motion: Concept of a System</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42074" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.5">
+        <md:title>Newton’s Third Law of Motion: Symmetry in Forces</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42075" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.8">
+        <md:title>Normal, Tension, and Other Examples of Forces</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42076" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.8">
+        <md:title>Problem-Solving Strategies</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42132" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.8">
+        <md:title>Further Applications of Newton’s Laws of Motion</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42137" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.6">
+        <md:title>Extended Topic: The Four Basic Forces—An Introduction</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Further Applications of Newton's Laws: Friction, Drag, and Elasticity</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m42138" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.2">
+        <md:title>Introduction: Further Applications of Newton’s Laws</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42139" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.7">
+        <md:title>Friction</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42080" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.9">
+        <md:title>Drag Forces</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42081" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.12">
+        <md:title>Elasticity: Stress and Strain</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Uniform Circular Motion and Gravitation</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m42140" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.2">
+        <md:title>Introduction to Uniform Circular Motion and Gravitation</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42083" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.7">
+        <md:title>Rotation Angle and Angular Velocity</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42084" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.8">
+        <md:title>Centripetal Acceleration</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42086" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.9">
+        <md:title>Centripetal Force</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42142" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Fictitious Forces and Non-inertial Frames: The Coriolis Force</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42143" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.5">
+        <md:title>Newton’s Universal Law of Gravitation</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42144" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.5">
+        <md:title>Satellites and Kepler’s Laws: An Argument for Simplicity</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Work, Energy, and Energy Resources</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m42145" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.2">
+        <md:title>Introduction to Work, Energy, and Energy Resources</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42146" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.5">
+        <md:title>Work: The Scientific Definition</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42147" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.5">
+        <md:title>Kinetic Energy and the Work-Energy Theorem</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42148" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.7">
+        <md:title>Gravitational Potential Energy</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42149" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.4">
+        <md:title>Conservative Forces and Potential Energy</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42150" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.6">
+        <md:title>Nonconservative Forces</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42151" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.5">
+        <md:title>Conservation of Energy</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42152" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.4">
+        <md:title>Power</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42153" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.5">
+        <md:title>Work, Energy, and Power in Humans</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42154" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.5">
+        <md:title>World Energy Use</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Linear Momentum and Collisions</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m42155" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Introduction to Linear Momentum and Collisions</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42156" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Linear Momentum and Force</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42159" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.6">
+        <md:title>Impulse</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42162" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Conservation of Momentum</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42163" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Elastic Collisions in One Dimension</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42164" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.9">
+        <md:title>Inelastic Collisions in One Dimension</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42165" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.6">
+        <md:title>Collisions of Point Masses in Two Dimensions</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42166" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.6">
+        <md:title>Introduction to Rocket Propulsion</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Statics and Torque</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m42167" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.4">
+        <md:title>Introduction to Statics and Torque</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42170" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.5">
+        <md:title>The First Condition for Equilibrium</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42171" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.4">
+        <md:title>The Second Condition for Equilibrium</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42172" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.6">
+        <md:title>Stability</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42173" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.5">
+        <md:title>Applications of Statics, Including Problem-Solving Strategies</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42174" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Simple Machines</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42175" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.6">
+        <md:title>Forces and Torques in Muscles and Joints</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Rotational Motion and Angular Momentum</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m42176" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.4">
+        <md:title>Introduction to Rotational Motion and Angular Momentum</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42177" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.4">
+        <md:title>Angular Acceleration</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42178" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.4">
+        <md:title>Kinematics of Rotational Motion</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42179" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.6">
+        <md:title>Dynamics of Rotational Motion: Rotational Inertia</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42180" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.8">
+        <md:title>Rotational Kinetic Energy: Work and Energy Revisited</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42182" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.5">
+        <md:title>Angular Momentum and Its Conservation</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42183" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.5">
+        <md:title>Collisions of Extended Bodies in Two Dimensions</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42184" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.2">
+        <md:title>Gyroscopic Effects: Vector Aspects of Angular Momentum</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Fluid Statics</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m42185" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Introduction to Fluid Statics</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42186" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.4">
+        <md:title>What Is a Fluid?</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42187" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Density</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42189" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.4">
+        <md:title>Pressure</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42192" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Variation of Pressure with Depth in a Fluid</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42193" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Pascal’s Principle</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42195" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.6">
+        <md:title>Gauge Pressure, Absolute Pressure, and Pressure Measurement</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42196" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.8">
+        <md:title>Archimedes’ Principle</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42197" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.5">
+        <md:title>Cohesion and Adhesion in Liquids: Surface Tension and Capillary Action</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42199" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.5">
+        <md:title>Pressures in the Body</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Fluid Dynamics and Its Biological and Medical Applications</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m42204" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Introduction to Fluid Dynamics and Its Biological and Medical Applications</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42205" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.4">
+        <md:title>Flow Rate and Its Relation to Velocity</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42206" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.7">
+        <md:title>Bernoulli’s Equation</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42208" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.4">
+        <md:title>The Most General Applications of Bernoulli’s Equation</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42209" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.5">
+        <md:title>Viscosity and Laminar Flow; Poiseuille’s Law</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42210" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.7">
+        <md:title>The Onset of Turbulence</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42211" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.5">
+        <md:title>Motion of an Object in a Viscous Fluid</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42212" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Molecular Transport Phenomena: Diffusion, Osmosis, and Related Processes</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Temperature, Kinetic Theory, and the Gas Laws</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m42213" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Introduction to Temperature, Kinetic Theory, and the Gas Laws</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42214" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Temperature</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42215" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.4">
+        <md:title>Thermal Expansion of Solids and Liquids</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42216" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.5">
+        <md:title>The Ideal Gas Law</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42217" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.4">
+        <md:title>Kinetic Theory: Atomic and Molecular Explanation of Pressure and Temperature</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42218" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.4">
+        <md:title>Phase Changes</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42219" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.5">
+        <md:title>Humidity, Evaporation, and Boiling</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Heat and Heat Transfer Methods</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m42221" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Introduction to Heat and Heat Transfer Methods</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42223" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.4">
+        <md:title>Heat</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42224" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.5">
+        <md:title>Temperature Change and Heat Capacity</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42225" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.8">
+        <md:title>Phase Change and Latent Heat</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42226" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Heat Transfer Methods</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42228" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.7">
+        <md:title>Conduction</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42229" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.6">
+        <md:title>Convection</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42230" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.6">
+        <md:title>Radiation</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Thermodynamics</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m42231" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.4">
+        <md:title>Introduction to Thermodynamics</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42232" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.7">
+        <md:title>The First Law of Thermodynamics</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42233" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.5">
+        <md:title>The First Law of Thermodynamics and Some Simple Processes</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42234" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.4">
+        <md:title>Introduction to the Second Law of Thermodynamics: Heat Engines and Their Efficiency</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42235" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.4">
+        <md:title>Carnot’s Perfect Heat Engine: The Second Law of Thermodynamics Restated</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42236" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Applications of Thermodynamics: Heat Pumps and Refrigerators</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42237" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.8">
+        <md:title>Entropy and the Second Law of Thermodynamics: Disorder and the Unavailability of Energy</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42238" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.4">
+        <md:title>Statistical Interpretation of Entropy and the Second Law of Thermodynamics: The Underlying Explanation</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Oscillatory Motion and Waves</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m42239" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Introduction to Oscillatory Motion and Waves</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42240" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.5">
+        <md:title>Hooke’s Law: Stress and Strain Revisited</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42241" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Period and Frequency in Oscillations</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42242" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.7">
+        <md:title>Simple Harmonic Motion: A Special Periodic Motion</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42243" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.5">
+        <md:title>The Simple Pendulum</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42244" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.6">
+        <md:title>Energy and the Simple Harmonic Oscillator</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42245" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.5">
+        <md:title>Uniform Circular Motion and Simple Harmonic Motion</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42246" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.4">
+        <md:title>Damped Harmonic Motion</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42247" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.5">
+        <md:title>Forced Oscillations and Resonance</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42248" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.5">
+        <md:title>Waves</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42249" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.5">
+        <md:title>Superposition and Interference</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42250" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.7">
+        <md:title>Energy in Waves: Intensity</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Physics of Hearing</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m42254" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Introduction to the Physics of Hearing</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42255" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Sound</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42256" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.4">
+        <md:title>Speed of Sound, Frequency, and Wavelength</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42257" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Sound Intensity and Sound Level</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42712" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.2">
+        <md:title>Doppler Effect and Sonic Booms</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42296" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.4">
+        <md:title>Sound Interference and Resonance: Standing Waves in Air Columns</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42297" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Hearing</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42298" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.6">
+        <md:title>Ultrasound</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Electric Charge and Electric Field</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m42299" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Introduction to Electric Charge and Electric Field</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42300" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.5">
+        <md:title>Static Electricity and Charge: Conservation of Charge</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42306" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.4">
+        <md:title>Conductors and Insulators</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42308" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.6">
+        <md:title>Coulomb’s Law</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42310" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.6">
+        <md:title>Electric Field: Concept of a Field Revisited</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42312" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.7">
+        <md:title>Electric Field Lines: Multiple Charges</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42315" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.2">
+        <md:title>Electric Forces in Biology</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42317" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.4">
+        <md:title>Conductors and Electric Fields in Static Equilibrium</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42329" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.6">
+        <md:title>Applications of Electrostatics</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Electric Potential and Electric Field</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m42320" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.4">
+        <md:title>Introduction to Electric Potential and Electric Energy</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42324" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.4">
+        <md:title>Electric Potential Energy: Potential Difference</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42326" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Electric Potential in a Uniform Electric Field</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42328" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.5">
+        <md:title>Electrical Potential Due to a Point Charge</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42331" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Equipotential Lines</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42333" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.4">
+        <md:title>Capacitors and Dielectrics</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42336" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.4">
+        <md:title>Capacitors in Series and Parallel</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42395" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Energy Stored in Capacitors</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Electric Current, Resistance, and Ohm's Law</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m42339" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Introduction to Electric Current, Resistance, and Ohm's Law</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42341" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.4">
+        <md:title>Current</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42344" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.4">
+        <md:title>Ohm’s Law: Resistance and Simple Circuits</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42346" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.7">
+        <md:title>Resistance and Resistivity</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42714" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.6">
+        <md:title>Electric Power and Energy</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42348" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.5">
+        <md:title>Alternating Current versus Direct Current</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42350" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.4">
+        <md:title>Electric Hazards and the Human Body</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42352" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Nerve Conduction–Electrocardiograms</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Circuits and DC Instruments</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m42354" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.5">
+        <md:title>Introduction to Circuits and DC Instruments</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42356" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.5">
+        <md:title>Resistors in Series and Parallel</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42357" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Electromotive Force: Terminal Voltage</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42359" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.5">
+        <md:title>Kirchhoff’s Rules</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42360" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.6">
+        <md:title>DC Voltmeters and Ammeters</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42362" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.2">
+        <md:title>Null Measurements</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42363" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.5">
+        <md:title>DC Circuits Containing Resistors and Capacitors</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Magnetism</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m42365" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.2">
+        <md:title>Introduction to Magnetism</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42366" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Magnets</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42368" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.4">
+        <md:title>Ferromagnets and Electromagnets</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42370" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.2">
+        <md:title>Magnetic Fields and Magnetic Field Lines</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42372" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.4">
+        <md:title>Magnetic Field Strength: Force on a Moving Charge in a Magnetic Field</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42375" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.2">
+        <md:title>Force on a Moving Charge in a Magnetic Field: Examples and Applications</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42377" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>The Hall Effect</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42398" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.4">
+        <md:title>Magnetic Force on a Current-Carrying Conductor</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42380" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.2">
+        <md:title>Torque on a Current Loop: Motors and Meters</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42382" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Magnetic Fields Produced by Currents: Ampere’s Law</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42386" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.4">
+        <md:title>Magnetic Force between Two Parallel Conductors</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42388" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.4">
+        <md:title>More Applications of Magnetism</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Electromagnetic Induction, AC Circuits, and Electrical Technologies</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m42389" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.5">
+        <md:title>Introduction to Electromagnetic Induction, AC Circuits and Electrical Technologies</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42390" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Induced Emf and Magnetic Flux</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42392" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.4">
+        <md:title>Faraday’s Law of Induction: Lenz’s Law</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42400" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Motional Emf</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42404" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.2">
+        <md:title>Eddy Currents and Magnetic Damping</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42408" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.5">
+        <md:title>Electric Generators</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42411" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.5">
+        <md:title>Back Emf</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42414" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.5">
+        <md:title>Transformers</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42416" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.2">
+        <md:title>Electrical Safety: Systems and Devices</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42420" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.4">
+        <md:title>Inductance</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42425" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.5">
+        <md:title>RL Circuits</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42427" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.4">
+        <md:title>Reactance, Inductive and Capacitive</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42431" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.5">
+        <md:title>RLC Series AC Circuits</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Electromagnetic Waves</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m42434" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Introduction to Electromagnetic Waves</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42437" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.2">
+        <md:title>Maxwell’s Equations: Electromagnetic Waves Predicted and Observed</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42440" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.5">
+        <md:title>Production of Electromagnetic Waves</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42444" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.6">
+        <md:title>The Electromagnetic Spectrum</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42446" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.4">
+        <md:title>Energy in Electromagnetic Waves</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Geometric Optics</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m42449" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.2">
+        <md:title>Introduction to Geometric Optics</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42452" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>The Ray Aspect of Light</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42456" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.4">
+        <md:title>The Law of Reflection</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42459" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.7">
+        <md:title>The Law of Refraction</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42462" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.5">
+        <md:title>Total Internal Reflection</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42466" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.5">
+        <md:title>Dispersion: The Rainbow and Prisms</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42470" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.5">
+        <md:title>Image Formation by Lenses</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42474" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.4">
+        <md:title>Image Formation by Mirrors</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Vision and Optical Instruments</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m42478" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.2">
+        <md:title>Introduction to Vision and Optical Instruments</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42482" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Physics of the Eye</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42484" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.2">
+        <md:title>Vision Correction</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42487" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.4">
+        <md:title>Color and Color Vision</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42491" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Microscopes</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42493" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Telescopes</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42292" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.2">
+        <md:title>Aberrations</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Wave Optics</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m42496" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Introduction to Wave Optics</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42501" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.2">
+        <md:title>The Wave Aspect of Light: Interference</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42505" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Huygens's Principle: Diffraction</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42508" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.4">
+        <md:title>Young’s Double Slit Experiment</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42512" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Multiple Slit Diffraction</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42515" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Single Slit Diffraction</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42517" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.5">
+        <md:title>Limits of Resolution: The Rayleigh Criterion</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42519" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.5">
+        <md:title>Thin Film Interference</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42522" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.4">
+        <md:title>Polarization</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42290" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.2">
+        <md:title>*Extended Topic* Microscopy Enhanced by the Wave Characteristics of Light</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Special Relativity</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m42525" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.4">
+        <md:title>Introduction to Special Relativity</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42528" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Einstein’s Postulates</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42531" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.5">
+        <md:title>Simultaneity And Time Dilation</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42535" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Length Contraction</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42540" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.6">
+        <md:title>Relativistic Addition of Velocities</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42542" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.4">
+        <md:title>Relativistic Momentum</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42546" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.7">
+        <md:title>Relativistic Energy</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Introduction to Quantum Physics</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m42550" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.2">
+        <md:title>Introduction to Quantum Physics</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42554" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.4">
+        <md:title>Quantization of Energy</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42558" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.5">
+        <md:title>The Photoelectric Effect</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42563" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.7">
+        <md:title>Photon Energies and the Electromagnetic Spectrum</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42568" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.4">
+        <md:title>Photon Momentum</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42573" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>The Particle-Wave Duality</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42576" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.5">
+        <md:title>The Wave Nature of Matter</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42579" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.5">
+        <md:title>Probability: The Heisenberg Uncertainty Principle</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42581" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.6">
+        <md:title>The Particle-Wave Duality Reviewed</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Atomic Physics</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m42585" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.2">
+        <md:title>Introduction to Atomic Physics</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42589" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.2">
+        <md:title>Discovery of the Atom</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42592" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.6">
+        <md:title>Discovery of the Parts of the Atom: Electrons and Nuclei</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42596" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.6">
+        <md:title>Bohr’s Theory of the Hydrogen Atom</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42599" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>X Rays: Atomic Origins and Applications</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42602" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.2">
+        <md:title>Applications of Atomic Excitations and De-Excitations</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42606" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>The Wave Nature of Matter Causes Quantization</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42609" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.2">
+        <md:title>Patterns in Spectra Reveal More Quantization</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42614" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.10">
+        <md:title>Quantum Numbers and Rules</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42618" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.7">
+        <md:title>The Pauli Exclusion Principle</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Radioactivity and Nuclear Physics</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m42620" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.2">
+        <md:title>Introduction to Radioactivity and Nuclear Physics</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42623" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.7">
+        <md:title>Nuclear Radioactivity</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42627" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.4">
+        <md:title>Radiation Detection and Detectors</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42631" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Substructure of the Nucleus</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42633" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.6">
+        <md:title>Nuclear Decay and Conservation Laws</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42636" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.6">
+        <md:title>Half-Life and Activity</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42640" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.5">
+        <md:title>Binding Energy</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42644" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.5">
+        <md:title>Tunneling</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Medical Applications of Nuclear Physics</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m42646" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Introduction to Applications of Nuclear Physics</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42649" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.5">
+        <md:title>Medical Imaging and Diagnostics</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42652" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.4">
+        <md:title>Biological Effects of Ionizing Radiation</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42654" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.5">
+        <md:title>Therapeutic Uses of Ionizing Radiation</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42656" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Food Irradiation</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42659" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.6">
+        <md:title>Fusion</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42662" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.8">
+        <md:title>Fission</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42665" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.5">
+        <md:title>Nuclear Weapons</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Particle Physics</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m42667" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.4">
+        <md:title>Introduction to Particle Physics</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42669" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>The Yukawa Particle and the Heisenberg Uncertainty Principle Revisited</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42671" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.5">
+        <md:title>The Four Basic Forces</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42718" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.4">
+        <md:title>Accelerators Create Matter from Energy</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42674" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.5">
+        <md:title>Particles, Patterns, and Conservation Laws</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42678" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.6">
+        <md:title>Quarks: Is That All There Is?</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42680" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.7">
+        <md:title>GUTs: The Unification of Forces</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Frontiers of Physics</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m42683" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.4">
+        <md:title>Introduction to Frontiers of Physics</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42686" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.8">
+        <md:title>Cosmology and Particle Physics</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42689" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.6">
+        <md:title>General Relativity and Quantum Gravity</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42691" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Superstrings</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42692" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.5">
+        <md:title>Dark Matter and Closure</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42694" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.2">
+        <md:title>Complexity and Chaos</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42696" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.5">
+        <md:title>High-temperature Superconductors</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42704" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Some Questions We Know to Ask</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      <col:module document="m42699" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.3">
+        <md:title>Atomic Masses</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42702" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.2">
+        <md:title>Selected Radioactive Isotopes</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42720" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.5">
+        <md:title>Useful Information</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m42709" version="latest"
+                  repository="http://cnx.org/content"
+                  cnxorg:version-at-this-collection-version="1.4">
+        <md:title>Glossary of Key Symbols and Notation</md:title>
+        
+        
+        
+      </col:module>
+        
+      
+    
+  </col:content>
+</col:collection>
