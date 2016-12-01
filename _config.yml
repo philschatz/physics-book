@@ -12,7 +12,7 @@ url:              https://github.com/philschatz/physics-book
 origin:           http://cnx.org/contents/031da8d3-b525-429c-80cf-6c8ed997733a@9.38
 
 author:
-  name:           'Openstax'
+  name:           'Derived from Openstax'
   url:            https://github.com/openstax
 
 paginate:         5
