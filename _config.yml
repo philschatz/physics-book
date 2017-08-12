@@ -7,9 +7,9 @@ markdown:         kramdown
 
 # Setup
 title:            'Physics'
-tagline:          'from http://cnx.org/contents/031da8d3-b525-429c-80cf-6c8ed997733a@9.78 (CC-BY)'
+tagline:          'from http://cnx.org/contents/031da8d3-b525-429c-80cf-6c8ed997733a@9.93 (CC-BY)'
 url:              https://github.com/philschatz/physics-book
-origin:           http://cnx.org/contents/031da8d3-b525-429c-80cf-6c8ed997733a@9.78
+origin:           http://cnx.org/contents/031da8d3-b525-429c-80cf-6c8ed997733a@9.93
 
 author:
   name:           'Openstax'
@@ -18,7 +18,7 @@ author:
 paginate:         5
 
 # Custom vars
-version:          9.78
+version:          9.93
 
 bookviewer:       http://philschatz.com/book-viewer
 
