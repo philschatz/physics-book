@@ -20,5 +20,5 @@ paginate:         5
 # Custom vars
 version:          9.38
 
-bookviewer:       https://physics.berea.edu/github/book-viewer/
+bookviewer:       https://physics.berea.edu/github/book-viewer
 
