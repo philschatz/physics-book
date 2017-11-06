@@ -20,5 +20,5 @@ paginate:         5
 # Custom vars
 version:          9.38
 
-bookviewer:       http://github.com/veillette/book-viewer
+bookviewer:       https://github.com/veillette/book-viewer/dist
 
