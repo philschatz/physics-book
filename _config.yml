@@ -22,3 +22,5 @@ version:          9.38
 
 bookviewer:       https://physics.berea.edu/github/book-viewer
 
+
+theme: jekyll-theme-slate
