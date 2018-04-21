@@ -7,12 +7,15 @@ markdown:         kramdown
 
 # Setup
 title:            'Physics'
+
+url:              https://github.com/veillette/physics-book
+
 tagline:          'from http://cnx.org/contents/031da8d3-b525-429c-80cf-6c8ed997733a@10.1 (CC-BY)'
-url:              https://github.com/philschatz/physics-book
+
 origin:           http://cnx.org/contents/031da8d3-b525-429c-80cf-6c8ed997733a@10.1
 
 author:
-  name:           'Openstax'
+  name:           'Derived from Openstax'
   url:            https://github.com/openstax
 
 paginate:         5
@@ -20,5 +23,7 @@ paginate:         5
 # Custom vars
 version:          10.1
 
-bookviewer:       http://philschatz.com/book-viewer
+bookviewer:       https://physics.berea.edu/github/book-viewer
 
+
+theme: jekyll-theme-slate
